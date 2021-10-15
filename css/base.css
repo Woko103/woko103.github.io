@@ -30,10 +30,25 @@ h1 {
   color: var(--secondary-color);
 }
 
+video[poster]{
+  height:100%;
+  width:100%;
+}
+
+br {
+  display: block;
+  margin: 10px 0;
+  content: " ";
+}
+
 .centered {
   max-width: 330px;
   width: 100%;
   margin: auto;
+}
+
+.green-text {
+  color: var(--secondary-color);
 }
 
 .green-link {

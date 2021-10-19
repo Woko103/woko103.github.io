@@ -91,4 +91,8 @@ br {
   .body-center {
     padding-top: 5px;
   }
+  
+  .fixed-bottom {
+    bottom: auto;
+  }
 }

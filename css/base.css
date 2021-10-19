@@ -81,10 +81,14 @@ br {
   }
   
   h1 {
-    font-size: 1.5em;
+    font-size: 26px;
   }
   
   h2 {
-    font-size: 0.7em;
+    font-size: 20px;
+  }
+  
+  .body-center {
+    padding-top: 5px;
   }
 }
